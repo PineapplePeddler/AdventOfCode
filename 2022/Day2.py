@@ -62,6 +62,8 @@ def calc_play(p1,strat):
         elif p1 == "C":
             return "X"
 
+"""
+"""
 
 # Import data
 with open("2022/Day2_Input.txt") as f:
